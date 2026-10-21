@@ -1,5 +1,3 @@
-# salon
-
 # SalonPro 💇‍♀️
 
 A full-stack Salon Appointment Booking Application that allows customers to explore salon services, book appointments, and manage their bookings online.
@@ -124,4 +122,4 @@ Razorpay is configured for test-mode payment workflows. Production payments requ
 
 ## 👨‍💻 Author
 
-Pavan Kumar
+
